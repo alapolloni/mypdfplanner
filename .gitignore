@@ -1,3 +1,5 @@
 .venv/
-./timeblockplannerpdf og ruby
-/timeblockplannerpdf og ruby
+timeblockplannerpdf og ruby/
+calendar_20*.pdf
+1.py
+.DS_Store
